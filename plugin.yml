@@ -1,0 +1,9 @@
+name: labyrinthe
+version: 1.0
+author: NS
+main: fr.NS.Labyrinthe.Generale.Main
+commands:
+ debug:
+  description: afficher le debug
+ laby:
+  description: generer un labyrinthe
