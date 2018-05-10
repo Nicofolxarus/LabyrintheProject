@@ -1,5 +1,5 @@
 name: labyrinthe
-version: 1.0
+version: 1.2
 author: NS
 main: fr.NS.Labyrinthe.Generale.Main
 commands:
